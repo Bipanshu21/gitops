@@ -1,1 +1,1 @@
-print("Bugs fixing are in the process bithc")
+print("Bugs fixing are in the process bitch")
