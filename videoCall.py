@@ -13,6 +13,13 @@ class Call:
         time.sleep(2)
         print("Handshake completed")
         
+    def continuTalking(self):
+        print(f"it's a {self.type} type call")
+        while True:
+            
+                print("connection online")
+                time.sleep(1)
+        
 v1 = Call("TCP", "127.0.0.1", "192.168.116.146") 
 
 
