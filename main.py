@@ -28,7 +28,10 @@ def printFib(limit):
 
     return result    
     
-       
+def greetPerson(name):
+    print(f"hello how are you {name}")
+
+
 data = printFib(10)
 
 print(data)
